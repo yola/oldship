@@ -8,5 +8,5 @@ If you go to the Old Ship, take a photo of yourself or your group. Add that
 photo to the proof directory. Format the filename as follows:
 
 ```
-ddmmyyyy.ext
+yyyymmdd.ext
 ```
